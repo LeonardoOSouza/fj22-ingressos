@@ -8,6 +8,7 @@ public class Sessao {
 	private LocalTime horario;
 	private Sala sala;
 	private Filme filme;
+	
 
 	public Sessao(LocalTime horario, Sala sala, Filme filme) {
 
